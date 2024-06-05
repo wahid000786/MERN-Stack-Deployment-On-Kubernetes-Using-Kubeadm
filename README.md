@@ -2,7 +2,7 @@
 
 ## Project Description
 
-This project demonstrates deploying a MERN (MongoDB, Express, React, Node.js) stack blog application on a Kubernetes cluster using Kubeadm. The application consists of three main components: the frontend, backend, and MongoDB database, each running in separate containers and pods. The frontend is accessible on port 5173, and the backend is accessible on port 8080 via NodePort services.
+This project demonstrates Deploying a MERN (MongoDB, Express, React, Node.js) stack blog application on a Kubernetes cluster using Kubeadm. The application consists of three main components: the frontend, backend, and MongoDB database, each running in separate containers and pods. 
 
 ## Project Structure
 
