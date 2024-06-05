@@ -2,7 +2,7 @@
 
 ## Project Description
 
-This project demonstrates Deploying a MERN (MongoDB, Express, React, Node.js) stack blog application on a Kubernetes cluster using Kubeadm. The application consists of three main components: the frontend, backend, and MongoDB database, each running in separate containers and pods. 
+This project demonstrates Deploying a MERN (MongoDB, Express, React, Node.js) stack blog application on a Kubernetes cluster using Kubeadm. The application consists of three main components: the frontend, backend, and MongoDB database, each running on different pods. 
 
 ## Project Structure
 
